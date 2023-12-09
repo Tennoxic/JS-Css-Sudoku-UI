@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(40,40,40);
+    padding: 0px;
+}
+
+div{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0px;
+    border:1px solid black;
+    background-color: rgb(25,25,25);
+    width: 32%;height: 275px;
+    box-sizing: border-box;
+    margin: auto;
+    border: 4px solid white;
+}
+div#mother{
+    width: 50%;height: 850px;
+}
+.fatherDiv{
+    border: 2px solid palevioletred;
+    border-radius: 10px;
+}
+.childDiv{
+    width: 32%;height: 32%;
+    border: 2px solid purple;
+    text-align: center;
+    line-height: 80px;
+    border-radius: 5px;
+}
+b{
+    margin: auto;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:x-large;
+}
+.jumbotron{
+    padding: 0px;
+    background-color: pink;
+    border:5px solid black;
+}
+.text-center{
+    color: white;
+    margin: 15px 0px 10px 0px;
+}
